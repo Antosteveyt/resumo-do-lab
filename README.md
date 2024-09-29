@@ -1,24 +1,24 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições apreendidas durante o desenvolvimento do lab na DIO.
 
- Olá eu sou o António Mendes e vou contar um pouco da minha jornada de aprendizagem durante este lab.
+ Olá eu sou o António Mendes e vou compartilhar um pouco da minha jornada de aprendizagem durante este lab.
 
 Neste bootcamp tive vários formadores que explicaram de forma sábia cada tema.
 
-### Desafios de projectos: Criar um portfólio vencedor 
+# Desafios de projectos: Criar um portfólio vencedor 
 #### Venilson Falvo Jr
-Com o formador Falvo jr pode aprender melhor como criar um portfólio bom e como melhorar o meu portfólio, aprendendo métodos de pontencialização de carreira, além disso pode entender melhor o que são Soft e Hard Skills, compreender a importância dos desafios de projectos na prática. O jeitinho que o formador Falvo jr abordou sobre o tema facilitou muito, ou seja, consegui compreender muito facilmente, e o termos usados não eram muito complexos.
+Com o formador Falvo jr pode aprender como criar um portfólio bom e como melhorar o meu portfólio, aprendendo métodos de pontencialização de carreira, além disso pode entender melhor o que são Soft e Hard Skills, compreender a importância dos desafios de projectos na prática. O jeitinho que o formador Falvo jr abordou sobre o tema facilitou muito, ou seja, consegui compreender muito facilmente, e o termos usados não eram muito complexos.
 
-Aprendi o significado de PBL:
+Aprendi também o significado de PBL:
 
 Aprendizado baseado em projectos(PBL)
 
 PBL-Portifólio, Competências e empregabilidade 
 
-### AZ-900
+# AZ-900
 #### Valéria Baptista
 
-A formadora Valéria apresentou um novo mundo para mim, eu não sabia nada sobre Azure, mas graças a ela pode aprennder o que é o Azure, Quais são os serviços que ele oferece e como abrir uma conta no azure, após fazer uma introdução ao Azure abordarmos sobre  Computação em nuvem onde, falámos sobre:
+A instrutora Valéria me apresentou ao mundo do Azure, um tema totalmente novo para mim.Mas graças a ela pode aprender o que é o Azure, Quais são os serviços que ele oferece e como abrir uma conta no azure, após fazer uma introdução ao Azure abordarmos sobre  Computação em nuvem onde, falámos sobre:
 
 -O que é 🤷‍♂️ Computação 🖥 em nuvem☁?
 - 🖥 - 📶 - 💾
@@ -45,28 +45,71 @@ Custo fixo/mensal que vária conforme o uso
 
 Após analisarmos *Custo de Capital **VS** Custo operacional*,por último falamos sobre Modelo baseado em cosumo
 
-### Versiamento de código com git e github
+# Versiamento de código com git e github
 #### Elidiane Andrade
 
-Até ao momento um dos melhores, a for.Elidiane conseguiu introduzir o tema de uma forma espetacular, conceitua mos o que é Versiamneto de código, Sistema de controle de versão e falamos sobre os tipos de sistemas, que são:
+Até ao momento um dos melhores, a for.Elidiane conseguiu introduzir o tema de uma forma  excepciona, conceitua mos o que é Versiamneto de código, Sistema de controle de versão e falamos sobre os tipos de sistemas, que são:
 
 ###### *_VCS Centralizado(CVCS) ex: CVS, Subversion_*
 
-###### Desvantagens do sistema 
+_Desvantagens_ 
 
 Falta de segurança
 
 É fácil perder arquivos
 
-###### *_VCS Distri
+###### *_VCS Distribuido(DVCS) ex: Git, mercurial_*
 
+_Vantagens_
 
- indo desde:
+Cada clone é como um backup
 
-1-Conhecer a ferramentas
+Possiblita um fluxo de trabalho flexível
 
-2-Instalação,Configuração e autenticação do git e do github
+Possibilidade de trabalho sem conexão a internet
 
-3-Demos os primeiros passos nas ferramentas 
+## Git
+Sitema de controle de versão distribuído
+
+#Mais utilizado 
+
+Open source e gratuito(open code);
+
+Ramificações e fusões eficientes;
+
+Leve e rápido;
+### História do Git
+
+**2002**-O projecto do núcleo do linux, que é open source, começa a utilizar o Botkeeper, um DVCS proprietário
+
+**2005**-O Bitkeeper rescinde a licença gratuita, o que leva o criador do linux, e sua equipe a desenvolver sua ferramentas "Git"
+
+## GitHub
+Plataforma de hospedagem de código para controle de versão com Git, e colaboração.
+#Comunidade activa
+#Utilizado Mundialmente
+
+### História do GITHUB
+
+**2008**-Desenvolvido por Cris , Tom e Scoott
+
+**2018**-Compraddo pela gigante do mercado da tecnologia Microsoft por uma bagatela de 7,5 Bilhões 
+
+ Após o aprendizado teórico, colocamos a mão na massa:
+
+1-Conhecemos a ferramentas;
+
+2-Instalação,Configuração e autenticação do git e do github;
+
+3-Primeiros passos com ambas as plataformas;
 
 4-Dicas
+
+5-Contribuí num projecto open source no Git hub
+
+# Mentoria (Live)
+Introdução Prática ao Azure AI e Azure OpenAI Models
+### Rogério Rodrigues
+
+Gostei! Simples, rápido e directo 
+A apresentação foi clara, objetiva e direta ao ponto, proporcionando um entendimento prático sobre os modelos de IA no Azure e Azure OpenAI.
